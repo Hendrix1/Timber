@@ -1,5 +1,26 @@
 {
-  "current": "Default",
+  "current": {
+    "color_primary": "#ec4c12",
+    "color_secondary": "#ec4c12",
+    "color_borders": "#ededed",
+    "color_body_bg": "#0d0c0c",
+    "color_body_text": "#ededed",
+    "color_footer_bg": "#000000",
+    "color_footer_text": "#ededed",
+    "color_footer_social_link": "#ededed",
+    "logo_use_image": true,
+    "logo_max_width": "100",
+    "favicon_enable": true,
+    "footer_social_enable": true,
+    "footer_newsletter_enable": true,
+    "cart_notes_enable": true,
+    "ajax_cart_method": "drawer",
+    "social_twitter_link": "",
+    "social_facebook_link": "",
+    "content_for_index": [
+
+    ]
+  },
   "presets": {
     "Default": {
       "ajax_cart_method": "drawer",
